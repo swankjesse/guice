@@ -27,7 +27,7 @@ See the Apache License Version 2.0 for the specific language governing permissio
 
   <groupId>com.google.inject</groupId>
   <artifactId>guice-parent</artifactId>
-  <version>5.0.1-SNAPSHOT</version>
+  <version>5.0.0-alpha.jwilson.1.0</version>
 
   <name>Google Guice</name>
 
@@ -64,7 +64,7 @@ See the Apache License Version 2.0 for the specific language governing permissio
     <connection>scm:git:git://github.com/swankjesse/guice.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/swankjesse/guice.git</developerConnection>
     <url>https://github.com/swankjesse/guice</url>
-    <tag>guice-parent-5.0.0-jesse.alpha.1</tag>
+    <tag>guice-parent-5.0.0-alpha.jwilson.1.0</tag>
   </scm>
 
   <issueManagement>
